@@ -21,7 +21,7 @@ public class DemoApplication {
 		listInvoices.add(marTransactions);
 
 		long rewards = threeMonthsRewards(listInvoices);
-		System.out.println("totalRewardPointsForThreeMonths :: " + rewards);
+		System.out.println("Total rewards :: " + rewards);
 		
 	}
 
